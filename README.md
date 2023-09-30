@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @quatricise
-- 🌱 I’m currently learning ... javascript, php, mysql, html, css
-- im a noob so pls !hate 😏
+linktr.ee/quatricise
 
 <!---
 quatricise/quatricise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
